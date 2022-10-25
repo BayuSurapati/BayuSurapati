@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BayuSurapati
+- 👋 Hi, I’m BayuSurapati
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#, kotlin, Java, PHP 
 - 💞️ Love Myself
